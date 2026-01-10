@@ -1,4 +1,4 @@
-# Gmail Account Password Security Analyzer | For Educational Use Only
+# Gmail Account Password Security Hacker 2026 | For Educational Use Only
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Security](https://img.shields.io/badge/Security-Audit-red)
