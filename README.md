@@ -11,7 +11,7 @@
 **This repository is provided solely for LEARNING, RESEARCH, and AUTHORIZED SECURITY AUDITS.**
 
 **The tool leverages the PASS REVELATOR API to demonstrate password analysis concepts.  
-For additional information on email account protection and password auditing, see:**  
+For additional information on email account protection and password hacking, see:**  
 👉 https://www.passwordrevelator.net/en/passbreaker
 
 ![PassBreaker Logo](./PASSBREAKER.png)
