@@ -12,7 +12,7 @@
 
 **The tool leverages the PASS REVELATOR API to demonstrate password analysis concepts.  
 For additional information on email account protection and password auditing, see:**  
-👉 https://www.passwordrevelator.net/en/passdecoder
+👉 https://www.passwordrevelator.net/en/passbreaker
 
 ![PassBreaker Logo](./PASSBREAKER.png)
 
