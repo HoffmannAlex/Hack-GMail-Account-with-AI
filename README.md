@@ -35,6 +35,7 @@ The **Gmail Account Password Security Analyzer** is a hands-on cybersecurity lea
 - Measure password robustness on permitted Gmail accounts.
 - Increase awareness of credential-related weaknesses.
 - Assist in cybersecurity education and ethical hacking training.
+- Hack OAuth2 security protection.
 
 ---
 
