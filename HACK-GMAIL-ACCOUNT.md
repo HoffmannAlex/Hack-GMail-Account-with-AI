@@ -213,7 +213,3 @@ No. Strong unique passwords, Google security keys, and login alerts block most c
 Distributed for **educational use only**. See the `LICENSE` file. Unauthorized access, commercial resale, or malicious redistribution is forbidden.
 
 > ⭐ Star the repository if this framework helped your security learning!
-
----
-
-<!-- SEO: hack gmail account 2026, gmail hacker tool free, cracker google password, ethical gmail hacking, hack email educational python, gmail security audit ai -->
